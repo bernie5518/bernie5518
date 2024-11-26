@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**bernie5518/bernie5518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🚀 About Me
 🎓 Pursuing a BAS in Cybersecurity at National University
 🛡️ Passionate about cybersecurity and IT management
@@ -54,3 +51,6 @@ He/Him
 🌍 Curious about global events and how technology shapes our future
 🌟 I enjoy grilling, staying active, and spending quality time with family
 -->
+
+  <!--
+**bernie5518/bernie5518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
